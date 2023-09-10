@@ -1,0 +1,4 @@
+Risotto,5.00,10,
+Sushi,19.00,
+Vürtsikas porgandikook,6.50,15,
+Veiselihapasta seentega,11.50,

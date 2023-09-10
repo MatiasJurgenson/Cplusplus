@@ -1,0 +1,11 @@
+luua klass Loomad, kus on privaatne isendiväli looma nime jaoks, konstruktor 
+ja virtuaalne void tüüpi funktsioon häälitsus().
+
+luua klass Roomajad, mis on Loomad alamklass, ning sisaldab privaatset isendivälja 
+jalgadeArv. Klassis on ka konstruktor.
+
+Luua klass Madu, mis sisaldab konstruktorit, ning defineerib üle funktsiooni häälitsus().
+
+Main funktsioonis luua nii Madu kui ka Loomad klassi tüübid, Loomad klass objektile anda üle 
+Madu klassi objekti väärtused, ning seejärel testida funktsiooni häälitsus() ja väljastada
+Loomad klass objekt. 
